@@ -6,7 +6,7 @@ categories: jekyll blogging
 ---
 
 The goal of this article is to add some extra info
-about blog writing with _Jekyll_.
+about blog writing.
 
 ## Structure your posts
 
@@ -28,6 +28,3 @@ def hello(name):
 Create an `assets` folder where you can put all your images,
 then display them with a link starting with an exclamative mark like this:
 `![my inspiring image]({{ "/assets/sample-image.jpg" | relative_url }})`.
-
-![my inspiring image]({{ "/assets/sample-image.jpg" | relative_url }})
-_Photo by [Ian Schneider](https://unsplash.com/@goian)_
