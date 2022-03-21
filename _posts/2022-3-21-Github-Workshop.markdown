@@ -11,4 +11,4 @@
 - touch file1.txt
 - git pull
 
-![[https://harshkapadia2.github.io/git_basics/static/img/git-local-remote.png]]
+![github](https://harshkapadia2.github.io/git_basics/static/img/git-local-remote.png)
