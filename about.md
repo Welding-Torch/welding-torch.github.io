@@ -16,4 +16,6 @@ If you'd like to talk about any blog article, give me feedback, or just have a f
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[https://t.me/Shuffleduffle](https://t.me/Shuffleduffle)
+<!-- [email@domain.com](mailto:email@domain.com) -->
+
