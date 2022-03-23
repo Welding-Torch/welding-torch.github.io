@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi 👋
+I'm Welding Torch, an Artificial Intelligence and Data Science Engineering student.
+This is my Personal Blog.
+
+Have a read!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+If you'd like to talk about any blog article, give me feedback, or just have a friendly chat; hit me up at https://t.me/Shuffleduffle
 
 ### Contact me
 
