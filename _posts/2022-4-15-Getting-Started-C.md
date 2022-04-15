@@ -52,19 +52,24 @@ Now Run the program by clicking the green 'Run' button near the top of your scre
 # Explanation of the Program
 
 **What is `<stdio.h>` ?**
+
 stdio.h is a header file which has the necessary information to include the input/output related functions in our program. Functions like `printf` and `scanf` are from stdio.h.
 
 **What is `<conio.h>` ?**
+
 conio.h is a header file which is mostly used by MS-DOS compilers like TurboC. Functions like `getch()` are from conio.h and _won't work unless conio.h is included in the program_.
 
-What is `void main()` ?
+**What is `void main()` ?**
+
 void main() is the entry point for execution in C program. It is where the main code of your program is written. 
 _Main function is the heart of C program. Everything inside the main block will be code that is executed._
 
 **What is `printf()` ?**
+
 printf() is a function used to output/print text to the screen. In our example it will output "Hello World!".
 
 **What is `getch()` ?**
+
 getch() is a function used to keep the output from the program on the screen for some time until the user presses a key. Without getch(), we wouldn't be able to see the output of our program in TurboC as after execution the program would close.
 
 
