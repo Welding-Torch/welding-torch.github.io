@@ -19,3 +19,6 @@ If you'd like to talk about any blog article, give me feedback, or just have a f
 [https://t.me/Shuffleduffle](https://t.me/Shuffleduffle)
 <!-- [email@domain.com](mailto:email@domain.com) -->
 
+### Testing Bookshelf
+
+{% include mycomponent.html %}
