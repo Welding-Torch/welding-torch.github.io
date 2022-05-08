@@ -21,4 +21,6 @@ If you'd like to talk about any blog article, give me feedback, or just have a f
 
 ### Testing Bookshelf
 
-{% include mycomponent.html %}
+{% include bookshelf_macro.html year=2022%}
+{% include bookshelf_macro.html year=2021%}
+<!-- Add -->
